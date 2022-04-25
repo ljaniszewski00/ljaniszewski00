@@ -1,4 +1,5 @@
-Hi 👋 My name is Łukasz
+Hi 👋   
+My name is Łukasz
 =======================
 
 iOS Developer
