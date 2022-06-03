@@ -5,10 +5,10 @@ My name is Łukasz
 iOS Developer
 -------------
 
-Programmer with a passion for providing complete and useful solutions
+Software Engineer with a passion for creating complete and useful solutions
 
-*   🌍  I'm based in Poland
-*   ✉️  You can contact me at [ljaniszewski00@gmail.com](mailto:ljaniszewski00@gmail.com)
+*  🌍  I live in Poland
+*  ✉️  You can contact me at [ljaniszewski00@gmail.com](mailto:ljaniszewski00@gmail.com)
 
 ### Skills
 <p align="left">
