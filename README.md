@@ -12,6 +12,7 @@ Software Engineer with a passion for creating complete and useful solutions
 
 ### Skills
 <p align="left">
+  
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
@@ -27,6 +28,7 @@ Software Engineer with a passion for creating complete and useful solutions
 
 ### My GitHub Stats
 <p align="left">
+  
 ![](https://github-readme-stats.vercel.app/api?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ljaniszewski00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
