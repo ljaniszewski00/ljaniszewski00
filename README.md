@@ -32,9 +32,3 @@ Software Engineer with a passion for creating complete and useful solutions
 ![](https://github-readme-stats.vercel.app/api?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ljaniszewski00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-                      
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/ljaniszewski00/Fit-Vein" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ljaniszewski00&repo=Fit-Vein&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/ljaniszewski00/SwiftfulShopping" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ljaniszewski00&repo=SwiftfulShopping&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/ljaniszewski00/AroundMe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ljaniszewski00&repo=AroundMe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/ljaniszewski00/Artificial-Intelligence-Techniques" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ljaniszewski00&repo=Artificial-Intelligence-Techniques&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
