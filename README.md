@@ -2,7 +2,7 @@
 I'm Łukasz, iOS Dev
 =======================
 
-*  ✉️  You can contact me at [ljaniszewski00@gmail.com](mailto:ljaniszewski00@gmail.com)
+You can contact me at [ljaniszewski00@gmail.com](mailto:ljaniszewski00@gmail.com)
 
 ### Skills
 <p align="left">
