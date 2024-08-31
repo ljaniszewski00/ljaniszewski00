@@ -1,13 +1,7 @@
-Hi 👋   
-My name is Łukasz
+👋 
+I'm Łukasz, iOS Dev
 =======================
 
-iOS Developer
--------------
-
-Software Engineer with a passion for creating complete and useful solutions
-
-*  🌍  I live in Poland
 *  ✉️  You can contact me at [ljaniszewski00@gmail.com](mailto:ljaniszewski00@gmail.com)
 
 ### Skills
@@ -21,8 +15,7 @@ Software Engineer with a passion for creating complete and useful solutions
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
                     
 ### Socials                                
-<p align="left">                         
-<a href="https://www.github.com/ljaniszewski00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                        
+<p align="left">                                               
 <a href="https://www.linkedin.com/in/ljaniszewski00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                    
 <a href="https://www.stackoverflow.com/users/14793963/vader20ff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
@@ -30,5 +23,4 @@ Software Engineer with a passion for creating complete and useful solutions
 <p align="left">
   
 ![](https://github-readme-stats.vercel.app/api?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ljaniszewski00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
