@@ -21,6 +21,5 @@ You can contact me by email: [ljaniszewski00@gmail.com](mailto:ljaniszewski00@gm
 
 ### My GitHub Stats
 <p align="left">
-  
-![](https://github-readme-stats.vercel.app/api?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ljaniszewski00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
